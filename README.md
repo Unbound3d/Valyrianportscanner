@@ -1,6 +1,3 @@
-# Valyrianportscanner
-
-
 # Valyrian Portscanner
 ![screenshot](screenshots/screenshot.png)
 
